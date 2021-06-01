@@ -1,0 +1,18 @@
+{
+    "os": "Windows-10-10.0.19041-SP0",
+    "python": "3.8.5",
+    "heartbeatAt": "2021-04-25T21:33:38.070060",
+    "startedAt": "2021-04-25T21:33:35.356111",
+    "docker": null,
+    "gpu": "GeForce RTX 2070",
+    "gpu_count": 1,
+    "cpu_count": 12,
+    "cuda": null,
+    "args": [],
+    "state": "running",
+    "program": "C:/Users/Henrik_Br\u00e5dland/Google Drive/Studier/Semester 10/IKT-442/test.py",
+    "codePath": "test.py",
+    "host": "DESKTOP-S454SB8",
+    "username": "Henrik_Br\u00e5dland",
+    "executable": "C:\\Program Files\\Python38\\python.exe"
+}

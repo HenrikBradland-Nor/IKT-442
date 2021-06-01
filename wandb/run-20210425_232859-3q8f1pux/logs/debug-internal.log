@@ -1,0 +1,39 @@
+2021-04-25 23:29:00,254 INFO    MainThread:12312 [internal.py:wandb_internal():88] W&B internal server running at pid: 12312, started at: 2021-04-25 23:29:00.249113
+2021-04-25 23:29:00,255 INFO    WriterThread:12312 [datastore.py:open_for_write():77] open: C:\Users\Henrik_Brådland\Google Drive\Studier\Semester 10\IKT-442\wandb\run-20210425_232859-3q8f1pux\run-3q8f1pux.wandb
+2021-04-25 23:29:00,256 DEBUG   HandlerThread:12312 [handler.py:handle_request():120] handle_request: check_version
+2021-04-25 23:29:00,261 DEBUG   SenderThread:12312 [sender.py:send():160] send: header
+2021-04-25 23:29:00,261 DEBUG   SenderThread:12312 [sender.py:send():160] send: request
+2021-04-25 23:29:00,262 DEBUG   SenderThread:12312 [sender.py:send_request():169] send_request: check_version
+2021-04-25 23:29:00,339 DEBUG   SenderThread:12312 [sender.py:send():160] send: run
+2021-04-25 23:29:00,349 DEBUG   SenderThread:12312 [git.py:repo():33] git repository is invalid
+2021-04-25 23:29:00,586 INFO    SenderThread:12312 [sender.py:_start_run_threads():651] run started: 3q8f1pux with start time 1619386139
+2021-04-25 23:29:00,586 DEBUG   SenderThread:12312 [sender.py:send():160] send: summary
+2021-04-25 23:29:00,587 INFO    SenderThread:12312 [sender.py:_save_file():781] saving file wandb-summary.json with policy end
+2021-04-25 23:29:00,587 DEBUG   HandlerThread:12312 [handler.py:handle_request():120] handle_request: run_start
+2021-04-25 23:29:02,123 DEBUG   HandlerThread:12312 [meta.py:__init__():39] meta init
+2021-04-25 23:29:02,123 DEBUG   HandlerThread:12312 [meta.py:__init__():53] meta init done
+2021-04-25 23:29:02,123 DEBUG   HandlerThread:12312 [meta.py:probe():210] probe
+2021-04-25 23:29:02,144 DEBUG   HandlerThread:12312 [git.py:repo():33] git repository is invalid
+2021-04-25 23:29:02,144 DEBUG   HandlerThread:12312 [meta.py:_save_pip():57] save pip
+2021-04-25 23:29:02,145 DEBUG   HandlerThread:12312 [meta.py:_save_pip():71] save pip done
+2021-04-25 23:29:02,145 DEBUG   HandlerThread:12312 [meta.py:probe():252] probe done
+2021-04-25 23:29:02,149 DEBUG   SenderThread:12312 [sender.py:send():160] send: files
+2021-04-25 23:29:02,149 INFO    SenderThread:12312 [sender.py:_save_file():781] saving file wandb-metadata.json with policy now
+2021-04-25 23:29:02,166 DEBUG   HandlerThread:12312 [handler.py:handle_request():120] handle_request: status
+2021-04-25 23:29:02,166 DEBUG   SenderThread:12312 [sender.py:send():160] send: request
+2021-04-25 23:29:02,167 DEBUG   SenderThread:12312 [sender.py:send_request():169] send_request: status
+2021-04-25 23:29:06,433 DEBUG   SenderThread:12312 [sender.py:send():160] send: history
+2021-04-25 23:29:06,433 DEBUG   SenderThread:12312 [sender.py:send():160] send: summary
+2021-04-25 23:29:06,434 INFO    SenderThread:12312 [sender.py:_save_file():781] saving file wandb-summary.json with policy end
+2021-04-25 23:29:10,077 DEBUG   SenderThread:12312 [sender.py:send():160] send: history
+2021-04-25 23:29:10,078 DEBUG   SenderThread:12312 [sender.py:send():160] send: summary
+2021-04-25 23:29:10,078 INFO    SenderThread:12312 [sender.py:_save_file():781] saving file wandb-summary.json with policy end
+2021-04-25 23:29:13,595 DEBUG   SenderThread:12312 [sender.py:send():160] send: history
+2021-04-25 23:29:13,595 DEBUG   SenderThread:12312 [sender.py:send():160] send: summary
+2021-04-25 23:29:13,596 INFO    SenderThread:12312 [sender.py:_save_file():781] saving file wandb-summary.json with policy end
+2021-04-25 23:29:17,303 DEBUG   SenderThread:12312 [sender.py:send():160] send: history
+2021-04-25 23:29:17,303 DEBUG   SenderThread:12312 [sender.py:send():160] send: summary
+2021-04-25 23:29:17,304 INFO    SenderThread:12312 [sender.py:_save_file():781] saving file wandb-summary.json with policy end
+2021-04-25 23:29:17,371 DEBUG   HandlerThread:12312 [handler.py:handle_request():120] handle_request: status
+2021-04-25 23:29:17,371 DEBUG   SenderThread:12312 [sender.py:send():160] send: request
+2021-04-25 23:29:17,371 DEBUG   SenderThread:12312 [sender.py:send_request():169] send_request: status

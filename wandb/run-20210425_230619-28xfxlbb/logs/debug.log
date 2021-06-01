@@ -1,0 +1,22 @@
+2021-04-25 23:06:19,312 INFO    MainThread:15124 [wandb_setup.py:_flush():69] setting env: {}
+2021-04-25 23:06:19,312 INFO    MainThread:15124 [wandb_setup.py:_flush():69] setting login settings: {}
+2021-04-25 23:06:19,312 INFO    MainThread:15124 [wandb_init.py:_log_setup():336] Logging user logs to C:\Users\Henrik_Brådland\Google Drive\Studier\Semester 10\IKT-442\wandb\run-20210425_230619-28xfxlbb\logs\debug.log
+2021-04-25 23:06:19,312 INFO    MainThread:15124 [wandb_init.py:_log_setup():337] Logging internal logs to C:\Users\Henrik_Brådland\Google Drive\Studier\Semester 10\IKT-442\wandb\run-20210425_230619-28xfxlbb\logs\debug-internal.log
+2021-04-25 23:06:19,313 INFO    MainThread:15124 [wandb_init.py:init():369] calling init triggers
+2021-04-25 23:06:19,313 INFO    MainThread:15124 [wandb_init.py:init():374] wandb.init called with sweep_config: {}
+config: {}
+2021-04-25 23:06:19,314 INFO    MainThread:15124 [wandb_init.py:init():418] starting backend
+2021-04-25 23:06:19,314 INFO    MainThread:15124 [backend.py:_multiprocessing_setup():69] multiprocessing start_methods=spawn, using: spawn
+2021-04-25 23:06:19,321 INFO    MainThread:15124 [backend.py:ensure_launched():123] starting backend process...
+2021-04-25 23:06:19,380 INFO    MainThread:15124 [backend.py:ensure_launched():127] started backend process with pid: 18228
+2021-04-25 23:06:19,381 INFO    MainThread:15124 [wandb_init.py:init():423] backend started and connected
+2021-04-25 23:06:19,383 INFO    MainThread:15124 [wandb_init.py:init():465] updated telemetry
+2021-04-25 23:06:19,383 INFO    MainThread:15124 [wandb_init.py:init():484] communicating current version
+2021-04-25 23:06:20,219 INFO    MainThread:15124 [wandb_init.py:init():489] got version response 
+2021-04-25 23:06:20,219 INFO    MainThread:15124 [wandb_init.py:init():497] communicating run to backend with 30 second timeout
+2021-04-25 23:06:20,450 INFO    MainThread:15124 [wandb_init.py:init():522] starting run threads in backend
+2021-04-25 23:06:22,054 INFO    MainThread:15124 [wandb_run.py:_console_start():1524] atexit reg
+2021-04-25 23:06:22,055 INFO    MainThread:15124 [wandb_run.py:_redirect():1371] redirect: SettingsConsole.WRAP
+2021-04-25 23:06:22,055 INFO    MainThread:15124 [wandb_run.py:_redirect():1414] Wrapping output streams.
+2021-04-25 23:06:22,055 INFO    MainThread:15124 [wandb_run.py:_redirect():1438] Redirects installed.
+2021-04-25 23:06:22,055 INFO    MainThread:15124 [wandb_init.py:init():546] run started, returning control to user process

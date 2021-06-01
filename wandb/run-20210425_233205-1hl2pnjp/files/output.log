@@ -1,0 +1,1 @@
+ray.rllib.utils.error.UnsupportedSpaceException: Action space (Discrete(9)) of <ray.rllib.policy.tf_policy_template.DDPGTFPolicy object at 0x000001C651BAC0A0> is not supported for DDPG.
